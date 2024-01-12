@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/pygame-tutorial/
+https://www.youtube.com/watch?v=AY9MnQ4x3zk
+Contributors:
+Aditya Moza 2022035
+Pranav Bharadwaj 2022363
+Aditya Prasad 2022036
+Project:
+Age old sliding puzzle game with banger music and immaculate vibes
+Source code:
+PyGame, Youtube Tutorials, GitHub
+Files:
+Settings.py: Contains constants, colours, definitions
+Classes.py: Contains primary tiles class and methods defined on it
+Main.py: executable main program
+Approx. 200 lines in main, around 100 lines in classes, less than 50 in settings
+Functions and classes: 20-25 functions/methods, 4 classes(one is inherited from the PyGame.sprite module)
+Testing approach: runnning it on different systems, debugging as we code, vsc debuggee
